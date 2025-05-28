@@ -38,7 +38,7 @@ app.get('/', (req, res) => {
       <title>Node.js Simple App</title>
     </head>
     <body>
-      <h1>Welcome to Node.js Simple App</h1>
+      <h1>Welcome to JATIN Node.js Simple App</h1>
       
       <div class="card">
         <h2>Server Information</h2>
